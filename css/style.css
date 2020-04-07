@@ -96,8 +96,7 @@ body {
   border: 2px solid maroon;
   border-radius: 15px;
   margin-top: 20px;
-  padding-left: 10px;
-  padding-right:10px;
+  padding: 10px;
 }
 
 .mathcauses:hover{
@@ -244,4 +243,8 @@ p {
   width: 65px;
   height: 50px;
   margin-left: 10px;
+}
+
+.navbar-nav{
+  padding-right: 30px;
 }
