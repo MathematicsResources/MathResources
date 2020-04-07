@@ -96,7 +96,10 @@ body {
   border: 2px solid maroon;
   border-radius: 15px;
   margin-top: 20px;
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 3px;
 }
 
 .mathcauses:hover{
