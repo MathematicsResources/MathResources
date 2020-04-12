@@ -4,7 +4,7 @@ html, body{
   margin: 0;
   height: 100%;
   width: 100%;
-  background: #cee099;
+
 }
 
 .mr-auto{
@@ -36,14 +36,10 @@ p {
 .navbar-dark .nav-item:hover .nav-link{
     color: maroon;
     background: rgba(255, 255, 126, 0.8); /* add background-color to active links */
-    border-radius: 20px;
+    border-radius: 10px;
     display:block;
 
 }
-
-
-
-/* Finl Project CSS*/
 
 
 body {
@@ -65,7 +61,7 @@ body {
 
   background-color: transparent;
   padding: auto;
-  margin-right: 7px;
+  margin-right:;
 }
 
 .navbar-dark .navbar-toggler-icon{
