@@ -36,11 +36,13 @@ p {
 .navbar-dark .nav-item:hover .nav-link{
     color: maroon;
     background: rgba(255, 255, 126, 0.8); /* add background-color to active links */
-    border-radius: 10px;
+    border-radius: 5px;
     display:block;
-
 }
 
+.nav-item {
+  background: #116980;
+}
 
 body {
   background-color: #EDEDED;
@@ -244,6 +246,6 @@ p {
   margin-left: 10px;
 }
 
-.navbar-nav{
-  padding-right: 30px;
+.navbar-toggler{
+  margin-right:10px;
 }
