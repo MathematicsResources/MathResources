@@ -83,12 +83,6 @@ body {
   color: white;
 }
 
-#footer a img:hover{
-  box-shadow: 0 0 4px 3px rgba(1, 140, 186, 0.9);
-  width: auto;
-  height: auto;
-}
-
 .mathcauses{
   box-shadow: 1px 1px 1px 1px #68747D;
   background: #EDEDED;
@@ -134,12 +128,6 @@ h5{
   font-size: 17px;
 }
 
-
-#footer{
-  height: 50px;
-  margin-top: 200px;
-  clear: both;
-}
 
 p {
   font-size: 18px;
