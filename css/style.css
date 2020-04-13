@@ -16,7 +16,6 @@ html, body{
   color:white;
 }
 
-
 h2{
   font-size: 30px;
 }
@@ -33,15 +32,17 @@ p {
 
 
 
-.navbar-dark .nav-item:hover .nav-link{
+.navbar-dark .nav-item:hover{
     color: maroon;
-    background: rgba(255, 255, 126, 0.8); /* add background-color to active links */
+    background: rgba(115, 115, 111, 0.8); /* add background-color to active links */
     border-radius: 5px;
     display:block;
 }
 
 .nav-item {
   background: #116980;
+  text-align: center;
+
 }
 
 body {
@@ -248,4 +249,9 @@ p {
 
 .navbar-toggler{
   margin-right:10px;
+}
+
+.navbar-nav > li{
+  padding-right:20px;
+  padding-left: 20px;
 }
